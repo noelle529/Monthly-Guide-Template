@@ -33,7 +33,7 @@ h1, h2, h3, h4, h5{
     font-weight: 400;
     font-family: antique-olive-condensed, sans-serif;
 }
-ul, ol{
+ul{
     list-style: none;
     text-align: left;
 }
@@ -132,6 +132,9 @@ ul, ol{
         border-top: var(--primary-color) 3px solid;
         border-bottom: var(--primary-color) 3px solid;
         
+    }
+    .resource ul{
+        text-align: center;
     }
     
     
