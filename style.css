@@ -131,6 +131,7 @@ ul, ol{
         padding-left: 2%;
         border-top: var(--primary-color) 3px solid;
         border-bottom: var(--primary-color) 3px solid;
+        text-align: center;
     }
     
     footer{
