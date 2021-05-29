@@ -247,6 +247,10 @@ ul{
         min-width: 90px;
         width: 100%;
     }
+    .herbs p{
+        padding-left: 15px;
+        padding-right: 15px;
+    }
     .astrology{
         display: flex;
         flex-direction: row;
